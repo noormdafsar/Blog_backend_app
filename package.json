@@ -4,6 +4,7 @@
   "description": "bakckend of blog assignment",
   "main": "index.js",
   "scripts": {
+    "build": "react-scripts build",
     "start": "node index.js",
     "dev": "nodemon indexjs"
   },
